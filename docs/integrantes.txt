@@ -1,0 +1,13 @@
+Atividade A1 | DEV. Front-End — 2ª Entrega do Projeto de Site (AV A1)
+Projeto: Impacto Verde — Energia Limpa e Sustentabilidade
+Disciplina: Desenvolvimento Front-End — UNICID
+Professor: Paulo Fratta
+
+Descrição da atividade:
+Site de 10 páginas em HTML5, CSS3 e JavaScript sobre energia limpa e sustentabilidade, com acessibilidade para pessoas com deficiência, publicado com HTTPS e versionado no GitHub.
+
+Integrantes (nome completo e RA):
+1. Kaique Vieira Santos — RGM 47022793
+2. João Vitor Silva Alves Araujo — RGM 46905570
+3. Raimundo Walter — RGM 46852042
+4. Vitor Bezerra Marques — RGM 47538775
