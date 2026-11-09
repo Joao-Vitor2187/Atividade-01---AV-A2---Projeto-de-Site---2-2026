@@ -5,7 +5,7 @@ Projeto de site da disciplina Desenvolvimento Front-End (UNICID, 2026.2). Portal
 | Item | Informação |
 |---|---|
 | **Site publicado (HTTPS)** | https://atividade-01-av-a2-projeto-de-site-2-2026-production.up.railway.app/ |
-| **Repositório no GitHub** | `[colar aqui o link do repositório]` |
+| **Repositório no GitHub** | (https://github.com/Joao-Vitor2187/Atividade_01_Projeto_de_Site_2026) |
 | **Disciplina / Professor** | Desenvolvimento Front-End — Prof. Paulo Fratta |
 
 ## Equipe e divisão de funções
