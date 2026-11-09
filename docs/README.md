@@ -4,7 +4,7 @@ Projeto de site da disciplina Desenvolvimento Front-End (UNICID, 2026.2). Portal
 
 | Item | Informação |
 |---|---|
-| **Site publicado (HTTPS)** | `[colar aqui a URL do GitHub Pages]` |
+| **Site publicado (HTTPS)** | https://atividade-01-av-a2-projeto-de-site-2-2026-production.up.railway.app/ |
 | **Repositório no GitHub** | `[colar aqui o link do repositório]` |
 | **Disciplina / Professor** | Desenvolvimento Front-End — Prof. Paulo Fratta |
 
@@ -12,10 +12,10 @@ Projeto de site da disciplina Desenvolvimento Front-End (UNICID, 2026.2). Portal
 
 | Integrante | RA | Função |
 |---|---|---|
-| `[Nome completo 1]` | `[RA]` | `[ex.: JavaScript e formulário]` |
-| `[Nome completo 2]` | `[RA]` | `[ex.: CSS, responsividade e identidade visual]` |
-| `[Nome completo 3]` | `[RA]` | `[ex.: conteúdo das páginas, ODS e dados com fonte]` |
-| `[Nome completo 4]` | `[RA]` | `[ex.: documentação, deploy e GitHub]` |
+| Vitor Bezerra Marques | 47538775 | JavaScript e formulário |
+| Kaique Vieira Santos | 47022493 | Acessibilidade, responsividade e identidade visual |
+| Raimundo Walter | 46852042 | Conteúdo das páginas, ODS e dados com fonte |
+| João Vitor Silva Alves Araujo | 46905570 |  Documentação, deploy e GitHub |
 
 ## Tema e objetivos
 Energia limpa (eólica e solar), reciclagem e inclusão. O escopo completo está em [`escopo-do-projeto.md`](escopo-do-projeto.md).
