@@ -116,5 +116,5 @@ Desenvolver um portal web responsivo, acessível e semântico focado na conscien
 
 | Campo | Informação |
 |---|---|
-| **Responsável pela Validação** | [Nome do Líder/Integrante da Equipe] |
-| **Data** | 21/09/2026 |
+| **Responsável pela Validação** | Vitor Bezerra Marques |
+| **Data** | 09/11/2026 |
