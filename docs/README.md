@@ -2,7 +2,7 @@
 
 Projeto de site da disciplina Desenvolvimento Front-End (UNICID, 2026.2). Portal sobre energia limpa e preservação ambiental, com foco em impacto social e acessibilidade para pessoas com deficiência (PcD).
 
-| Item | Informação |
+| Item | Informação | 
 |---|---|
 | **Site publicado (HTTPS)** | https://atividade-01-av-a2-projeto-de-site-2-2026-production.up.railway.app/ |
 | **Repositório no GitHub** | (https://github.com/Joao-Vitor2187/Atividade_01_Projeto_de_Site_2026) |
